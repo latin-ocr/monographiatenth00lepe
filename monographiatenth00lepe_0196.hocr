@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monographiatenth00lepe_0196.png"; bbox 0 0 1673 3019; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 466 204 998 2061">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 466 204 998 2061">
+     <span class='ocr_line' id='line_1_1' title="bbox 782 204 939 260; baseline 0.013 -2"><span class='ocrx_word' id='word_1_1' title='bbox 782 204 795 258; x_wconf 91' lang='lat'>(</span> <span class='ocrx_word' id='word_1_2' title='bbox 824 204 902 260; x_wconf 75' lang='lat'><em>174</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 925 206 939 254; x_wconf 83' lang='grc'>)</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 474 286 808 338; baseline -0.003 -12"><span class='ocrx_word' id='word_1_4' title='bbox 474 287 595 338; x_wconf 80' lang='lat' dir='ltr'><em>Vaga</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 615 286 727 325; x_wconf 79' lang='lat' dir='ltr'><em>Ross.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 756 289 808 326; x_wconf 91' lang='lat' dir='ltr'><em>M.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 470 353 796 405; baseline -0.009 -11"><span class='ocrx_word' id='word_1_7' title='bbox 470 355 609 405; x_wconf 77' lang='lat' dir='ltr'><em>Vafrcz</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 632 355 689 391; x_wconf 91' lang='lat' dir='ltr'><em>De</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 706 353 796 391; x_wconf 87' lang='lat' dir='ltr'><strong>vill.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 470 421 754 470; baseline -0.007 -10"><span class='ocrx_word' id='word_1_10' title='bbox 470 421 607 470; x_wconf 81' lang='lat' dir='ltr'><em>Vafra</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 628 421 754 458; x_wconf 84' lang='lat' dir='ltr'><strong>Gmel.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 471 487 759 526; baseline -0.01 0"><span class='ocrx_word' id='word_1_12' title='bbox 471 487 607 526; x_wconf 68' lang='lat' dir='ltr'><em>Varia</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 628 487 759 525; x_wconf 85' lang='lat' dir='ltr'><strong>Gmel.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 469 553 849 591; baseline 0.003 -2"><span class='ocrx_word' id='word_1_14' title='bbox 469 554 697 591; x_wconf 78' lang='lat' dir='ltr'><em>Varicornis</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 720 553 849 591; x_wconf 83' lang='lat' dir='ltr'><strong>Gmel.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 475 621 710 659; baseline 0.004 -2"><span class='ocrx_word' id='word_1_16' title='bbox 475 621 599 659; x_wconf 83' lang='lat' dir='ltr'>Velox</span> <span class='ocrx_word' id='word_1_17' title='bbox 615 621 710 658; x_wconf 79' lang='lat' dir='ltr'><strong>Fab.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 469 687 811 727; baseline -0.006 0"><span class='ocrx_word' id='word_1_18' title='bbox 469 687 514 727; x_wconf 90' lang='lat' dir='ltr'><em>V</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 511 688 677 725; x_wconf 67' lang='lat' dir='ltr'><em>centralis</em></span> <span class='ocrx_word' id='word_1_20' title='bbox 697 690 811 725; x_wconf 86' lang='lat' dir='ltr'><em>Panz.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 473 754 848 793; baseline -0.005 0"><span class='ocrx_word' id='word_1_21' title='bbox 473 754 664 793; x_wconf 80' lang='lat' dir='ltr'><em>Vernalis</em></span> <span class='ocrx_word' id='word_1_22' title='bbox 684 756 742 791; x_wconf 84' lang='lat' dir='ltr'><em>De</em></span> <span class='ocrx_word' id='word_1_23' title='bbox 759 754 848 792; x_wconf 82' lang='lat' dir='ltr'><em>Vin.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 470 821 843 860; baseline 0 -1"><span class='ocrx_word' id='word_1_24' title='bbox 470 821 662 860; x_wconf 84' lang='lat' dir='ltr'><em>Vernalis</em></span> <span class='ocrx_word' id='word_1_25' title='bbox 681 823 843 859; x_wconf 85' lang='lat' dir='ltr'><strong>Fourcr.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 471 888 681 926; baseline 0.01 -3"><span class='ocrx_word' id='word_1_26' title='bbox 471 888 681 926; x_wconf 77' lang='lat' dir='ltr'><em>Verticata.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 471 954 880 1007; baseline -0.002 -14"><span class='ocrx_word' id='word_1_27' title='bbox 471 954 611 1007; x_wconf 78' lang='lat' dir='ltr'><em>Vespa</em></span> <span class='ocrx_word' id='word_1_28' title='bbox 633 957 690 992; x_wconf 85' lang='lat' dir='ltr'><em>De</em></span> <span class='ocrx_word' id='word_1_29' title='bbox 706 955 751 992; x_wconf 89' lang='lat' dir='ltr'><em>G.</em></span> <span class='ocrx_word' id='word_1_30' title='bbox 773 956 880 993; x_wconf 82' lang='lat' dir='ltr'>Retz.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 468 1021 921 1074; baseline -0.007 -13"><span class='ocrx_word' id='word_1_31' title='bbox 468 1022 738 1074; x_wconf 78' lang='lat' dir='ltr'><em>Vespiformis</em></span> <span class='ocrx_word' id='word_1_32' title='bbox 760 1024 817 1060; x_wconf 81' lang='lat' dir='ltr'><em>De</em></span> <span class='ocrx_word' id='word_1_33' title='bbox 833 1021 921 1060; x_wconf 86' lang='lat' dir='ltr'><strong>vill.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 469 1089 863 1141; baseline -0.005 -13"><span class='ocrx_word' id='word_1_34' title='bbox 469 1089 739 1141; x_wconf 65' lang='lat' dir='ltr'><em>Vespfformis</em></span> <span class='ocrx_word' id='word_1_35' title='bbox 760 1090 863 1126; x_wconf 77' lang='lat' dir='ltr'><strong>Latr.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 471 1155 971 1209; baseline -0.004 -15"><span class='ocrx_word' id='word_1_36' title='bbox 471 1156 517 1194; x_wconf 87' lang='lat' dir='ltr'><em>V</em></span> <span class='ocrx_word' id='word_1_37' title='bbox 513 1157 738 1209; x_wconf 68' lang='lat' dir='ltr'><em>espg&#39;formis</em></span> <span class='ocrx_word' id='word_1_38' title='bbox 759 1155 971 1194; x_wconf 80' lang='lat' dir='ltr'>Schranck.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 471 1223 701 1274; baseline 0 -15"><span class='ocrx_word' id='word_1_39' title='bbox 471 1223 701 1274; x_wconf 80' lang='lat' dir='ltr'><em>Vespoides.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_17' title="bbox 472 1290 623 1326; baseline -0.007 0"><span class='ocrx_word' id='word_1_40' title='bbox 472 1290 623 1326; x_wconf 82' lang='lat' dir='ltr'><strong>Vicina.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_18' title="bbox 473 1356 734 1394; baseline 0 -2"><span class='ocrx_word' id='word_1_41' title='bbox 473 1356 600 1393; x_wconf 86' lang='lat' dir='ltr'><em>Vidua</em></span> <span class='ocrx_word' id='word_1_42' title='bbox 621 1356 734 1394; x_wconf 87' lang='lat' dir='ltr'><em>Ross.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_19' title="bbox 472 1421 895 1461; baseline -0.002 -1"><span class='ocrx_word' id='word_1_43' title='bbox 472 1422 711 1461; x_wconf 80' lang='lat' dir='ltr'><em>Viennensis</em></span> <span class='ocrx_word' id='word_1_44' title='bbox 732 1423 790 1459; x_wconf 87' lang='lat' dir='ltr'><em>De</em></span> <span class='ocrx_word' id='word_1_45' title='bbox 807 1421 895 1459; x_wconf 86' lang='lat' dir='ltr'>Vill.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_20' title="bbox 466 1488 858 1528; baseline -0.008 0"><span class='ocrx_word' id='word_1_46' title='bbox 466 1488 707 1528; x_wconf 73' lang='lat' dir='ltr'><em>Viennensis</em></span> <span class='ocrx_word' id='word_1_47' title='bbox 728 1488 858 1526; x_wconf 83' lang='lat' dir='ltr'><strong>Gmel.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_21' title="bbox 470 1556 841 1594; baseline 0 -2"><span class='ocrx_word' id='word_1_48' title='bbox 470 1556 706 1594; x_wconf 83' lang='lat' dir='ltr'><em>Viennensis</em></span> <span class='ocrx_word' id='word_1_49' title='bbox 727 1556 841 1592; x_wconf 84' lang='lat' dir='ltr'><strong>Pauz.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_22' title="bbox 471 1620 846 1661; baseline -0.005 0"><span class='ocrx_word' id='word_1_50' title='bbox 471 1620 712 1661; x_wconf 79' lang='lat' dir='ltr'><em>Viennensis</em></span> <span class='ocrx_word' id='word_1_51' title='bbox 733 1623 846 1659; x_wconf 86' lang='lat' dir='ltr'><em>Ross.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_23' title="bbox 473 1687 948 1728; baseline -0.004 -1"><span class='ocrx_word' id='word_1_52' title='bbox 473 1689 713 1728; x_wconf 83' lang='lat' dir='ltr'><em>Viennensis</em></span> <span class='ocrx_word' id='word_1_53' title='bbox 734 1687 948 1726; x_wconf 80' lang='lat' dir='ltr'><strong>Schranck.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_24' title="bbox 471 1755 998 1793; baseline 0 -2"><span class='ocrx_word' id='word_1_54' title='bbox 471 1755 655 1793; x_wconf 82' lang='lat' dir='ltr'><em>Violacea</em></span> <span class='ocrx_word' id='word_1_55' title='bbox 677 1755 769 1792; x_wconf 84' lang='lat' dir='ltr'>Fab.</span> <span class='ocrx_word' id='word_1_56' title='bbox 793 1756 841 1792; x_wconf 89' lang='lat' dir='ltr'><em>It.</em></span> <span class='ocrx_word' id='word_1_57' title='bbox 864 1755 998 1793; x_wconf 83' lang='lat' dir='ltr'><strong>Norw.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_25' title="bbox 467 1821 826 1871; baseline -0.003 -12"><span class='ocrx_word' id='word_1_58' title='bbox 467 1821 642 1871; x_wconf 66' lang='lat' dir='ltr'><em>Vz&#39;rgszta</em></span> <span class='ocrx_word' id='word_1_59' title='bbox 662 1823 719 1858; x_wconf 85' lang='lat' dir='ltr'><em>De</em></span> <span class='ocrx_word' id='word_1_60' title='bbox 736 1821 826 1858; x_wconf 80' lang='lat' dir='ltr'><strong>vill.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_26' title="bbox 471 1889 814 1939; baseline -0.003 -15"><span class='ocrx_word' id='word_1_61' title='bbox 471 1889 631 1939; x_wconf 80' lang='lat' dir='ltr'><em>virgata</em></span> <span class='ocrx_word' id='word_1_62' title='bbox 651 1889 814 1926; x_wconf 80' lang='lat' dir='ltr'><strong>Fourcr.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_27' title="bbox 468 1954 914 1994; baseline -0.004 -1"><span class='ocrx_word' id='word_1_63' title='bbox 468 1955 729 1994; x_wconf 83' lang='lat' dir='ltr'><em>Viridescens</em></span> <span class='ocrx_word' id='word_1_64' title='bbox 751 1956 807 1992; x_wconf 87' lang='lat' dir='ltr'><em>De</em></span> <span class='ocrx_word' id='word_1_65' title='bbox 825 1954 914 1992; x_wconf 79' lang='lat' dir='ltr'><em>Vin.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_28' title="bbox 470 2022 910 2061; baseline -0.007 0"><span class='ocrx_word' id='word_1_66' title='bbox 470 2022 514 2061; x_wconf 92' lang='lat' dir='ltr'><em>V</em></span> <span class='ocrx_word' id='word_1_67' title='bbox 510 2022 729 2060; x_wconf 83' lang='lat' dir='ltr'><em>iridescens</em></span> <span class='ocrx_word' id='word_1_68' title='bbox 749 2024 910 2060; x_wconf 81' lang='lat' dir='ltr'>Fourcr.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 472 2091 1080 2132">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 472 2091 1080 2132">
+     <span class='ocr_line' id='line_1_29' title="bbox 472 2091 1080 2132; baseline -0.002 -2"><span class='ocrx_word' id='word_1_69' title='bbox 472 2092 519 2132; x_wconf 90' lang='lat' dir='ltr'><em>V</em></span> <span class='ocrx_word' id='word_1_70' title='bbox 513 2092 806 2130; x_wconf 68' lang='lat' dir='ltr'><em>iridi-domata</em></span> <span class='ocrx_word' id='word_1_71' title='bbox 827 2093 884 2130; x_wconf 88' lang='lat' dir='ltr'><em>De</em></span> <span class='ocrx_word' id='word_1_72' title='bbox 904 2092 950 2129; x_wconf 90' lang='lat' dir='ltr'><em>G.</em></span> <span class='ocrx_word' id='word_1_73' title='bbox 973 2091 1080 2129; x_wconf 84' lang='lat' dir='ltr'>Retz.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 469 2159 843 2598">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 469 2159 843 2598">
+     <span class='ocr_line' id='line_1_30' title="bbox 470 2159 813 2198; baseline -0.003 -1"><span class='ocrx_word' id='word_1_74' title='bbox 470 2159 628 2198; x_wconf 83' lang='lat' dir='ltr'><em>Viridis</em></span> <span class='ocrx_word' id='word_1_75' title='bbox 650 2161 708 2197; x_wconf 84' lang='lat' dir='ltr'><em>De</em></span> <span class='ocrx_word' id='word_1_76' title='bbox 723 2159 813 2197; x_wconf 82' lang='lat' dir='ltr'><strong>vill.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_31' title="bbox 471 2226 730 2263; baseline 0.004 -2"><span class='ocrx_word' id='word_1_77' title='bbox 471 2226 615 2263; x_wconf 83' lang='lat' dir='ltr'><em>Viridis</em></span> <span class='ocrx_word' id='word_1_78' title='bbox 636 2226 730 2263; x_wconf 82' lang='lat' dir='ltr'>Fab.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_32' title="bbox 471 2291 778 2330; baseline -0.003 -1"><span class='ocrx_word' id='word_1_79' title='bbox 471 2291 629 2330; x_wconf 78' lang='lat' dir='ltr'><em>Viridis</em></span> <span class='ocrx_word' id='word_1_80' title='bbox 650 2291 778 2329; x_wconf 85' lang='lat' dir='ltr'>Gmel.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_33' title="bbox 470 2359 760 2399; baseline -0.007 0"><span class='ocrx_word' id='word_1_81' title='bbox 470 2359 628 2399; x_wconf 78' lang='lat' dir='ltr'><em>Viridis</em></span> <span class='ocrx_word' id='word_1_82' title='bbox 647 2360 760 2397; x_wconf 86' lang='lat' dir='ltr'><em>Lesk.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_34' title="bbox 469 2425 762 2465; baseline -0.01 0"><span class='ocrx_word' id='word_1_83' title='bbox 469 2425 628 2465; x_wconf 80' lang='lat' dir='ltr'><em>Viridis</em></span> <span class='ocrx_word' id='word_1_84' title='bbox 647 2428 762 2463; x_wconf 83' lang='lat' dir='ltr'><em>Panz.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_35' title="bbox 470 2493 761 2532; baseline -0.01 0"><span class='ocrx_word' id='word_1_85' title='bbox 470 2493 628 2532; x_wconf 80' lang='lat' dir='ltr'><em>Viridis</em></span> <span class='ocrx_word' id='word_1_86' title='bbox 647 2493 761 2530; x_wconf 81' lang='lat' dir='ltr'><em>Ross.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_36' title="bbox 471 2559 843 2598; baseline -0.003 0"><span class='ocrx_word' id='word_1_87' title='bbox 471 2559 630 2598; x_wconf 78' lang='lat' dir='ltr'><em>Viridis</em></span> <span class='ocrx_word' id='word_1_88' title='bbox 652 2559 764 2598; x_wconf 68' lang='lat' dir='ltr'>RosS.</span> <span class='ocrx_word' id='word_1_89' title='bbox 791 2559 843 2598; x_wconf 87' lang='lat' dir='ltr'><em>M.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

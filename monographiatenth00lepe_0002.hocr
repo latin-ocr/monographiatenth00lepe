@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monographiatenth00lepe_0002.png"; bbox 0 0 1795 2973; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 529 1035 1212 1093">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 529 1035 1212 1093">
+     <span class='ocr_line' id='line_1_1' title="bbox 529 1035 1212 1093; baseline 0.016 -11"><span class='ocrx_word' id='word_1_1' title='bbox 529 1035 692 1083; x_wconf 93' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_2' title='bbox 732 1037 1212 1093; x_wconf 90' lang='lat' dir='ltr'>UNIVERSITY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 633 1191 1113 1248">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 633 1191 1113 1248">
+     <span class='ocr_line' id='line_1_2' title="bbox 633 1191 1113 1248; baseline 0.017 -8"><span class='ocrx_word' id='word_1_3' title='bbox 633 1191 733 1241; x_wconf 92' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_4' title='bbox 771 1193 1113 1248; x_wconf 91' lang='lat' dir='ltr'><strong>ILLINOIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 699 1352 1037 1403">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 699 1352 1037 1403">
+     <span class='ocr_line' id='line_1_3' title="bbox 699 1352 1037 1403; baseline 0.012 -4"><span class='ocrx_word' id='word_1_5' title='bbox 699 1352 1037 1403; x_wconf 92' lang='lat' dir='ltr'><strong>LIBRARY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 709 1453 1021 1596">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 709 1453 1021 1596">
+     <span class='ocr_line' id='line_1_4' title="bbox 709 1453 1021 1514; baseline 0.003 -4"><span class='ocrx_word' id='word_1_6' title='bbox 709 1453 1021 1514; x_wconf 52' lang='lat' dir='ltr'>335⁶&amp;ss</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 709 1540 1018 1596; baseline -0.013 0"><span class='ocrx_word' id='word_1_7' title='bbox 709 1543 827 1596; x_wconf 65' lang='lat' dir='ltr'>L5</span> <span class='ocrx_word' id='word_1_8' title='bbox 854 1540 1018 1593; x_wconf 49' lang='lat'>‘5⁸0⁶</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 784 1842 962 1885">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 784 1842 962 1885">
+     <span class='ocr_line' id='line_1_6' title="bbox 784 1842 962 1885; baseline -0.006 0"><span class='ocrx_word' id='word_1_9' title='bbox 784 1842 962 1885; x_wconf 68' lang='lat' dir='ltr'>fflOLOGY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1735 0 1795 2973">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1735 0 1795 2973">
+     <span class='ocr_line' id='line_1_7' title="bbox 1735 0 1795 2973; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 1735 0 1795 2973; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
